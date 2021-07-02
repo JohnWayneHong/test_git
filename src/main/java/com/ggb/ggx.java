@@ -13,6 +13,7 @@ public class ggx {
         System.out.println("乖乖兔发起反击入侵乖乖熊");
         System.out.println("乖乖兔发起反击入侵乖乖熊");
         System.out.println("阿熊入侵");
+        System.out.println("阿兔背叛");
         System.out.println("乖乖兔发起反击入侵乖乖熊");
 
         System.out.println("阿杰入侵");
