@@ -8,5 +8,11 @@ package com.ggb;
 public class ggx {
     public static void main(String[] args) {
         System.out.println("我是乖乖熊");
+
+        System.out.println("乖乖兔发起反击入侵乖乖熊");
+        System.out.println("乖乖兔发起反击入侵乖乖熊");
+        System.out.println("乖乖兔发起反击入侵乖乖熊");
+        System.out.println("乖乖兔发起反击入侵乖乖熊");
+        System.out.println("乖乖兔发起反击入侵乖乖熊");
     }
 }

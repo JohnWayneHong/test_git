@@ -11,8 +11,5 @@ public class ggt {
         System.out.println("我是乖乖兔");
         System.out.println("我是乖乖兔");
 
-        System.out.println("乖乖熊入侵了");
-        System.out.println("乖乖熊入侵了");
-        System.out.println("乖乖熊入侵了");
     }
 }
