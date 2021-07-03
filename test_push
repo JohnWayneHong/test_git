@@ -1,1 +1,2 @@
 select bear from ggb where name='ggx'
+select rabbit from ljb where name='ggt'
